@@ -2,9 +2,9 @@
 
 **Obiettivo del Modulo:** Fornire una comprensione approfondita di come l'Intelligenza Artificiale viene utilizzata per potenziare la cyber security, analizzando sia le sue capacità difensive che offensive, nonché le sfide e le implicazioni etiche.
 
-**Durata Totale Suggerita:** 3-4 ore (divisibili in più sessioni)
+**Durata Totale Suggerita:** 3-4 giorni (divisibili in più sessioni)
 
-### Lezione 1: Introduzione all'IA per la Cyber Security (Durata: 45-60 minuti)
+### Lezione 1: Introduzione all'IA per la Cyber Security (Durata: ?)
 
 * **Ripasso Concetti Fondamentali di IA Rilevanti per la Cyber Security:**
     * Machine Learning (Supervised, Unsupervised, Reinforcement Learning) e loro applicazioni generali.
@@ -22,7 +22,7 @@
     * Esempi concreti di aziende e organizzazioni che utilizzano l'IA per migliorare la loro postura di sicurezza.
     * Discussione sui benefici tangibili e sui risultati ottenuti.
 
-### Lezione 2: IA per il Rilevamento e l'Analisi delle Minacce (Durata: 60-75 minuti)
+### Lezione 2: IA per il Rilevamento e l'Analisi delle Minacce (Durata: ?)
 
 * **Rilevamento di Anomalie con l'IA:**
     * Tecniche di Machine Learning non supervisionato per identificare comportamenti anomali nel traffico di rete, nei log di sistema e nell'attività degli utenti.
@@ -38,7 +38,7 @@
     * Utilizzo del Deep Learning per riconoscere nuove varianti di malware.
     * Esempi di strumenti e piattaforme che utilizzano l'IA per l'analisi di malware.
 
-### Lezione 3: IA per l'Automazione della Risposta e la Difesa Proattiva (Durata: 60-75 minuti)
+### Lezione 3: IA per l'Automazione della Risposta e la Difesa Proattiva (Durata: ?)
 
 * **Automazione della Risposta agli Incidenti (SOAR) con l'IA:**
     * Utilizzo dell'IA per automatizzare task ripetitivi nella gestione degli incidenti (triage, isolamento, contenimento).
@@ -53,7 +53,7 @@
     * Identificazione di trend e pattern nelle attività degli attaccanti.
     * Miglioramento della condivisione e dell'analisi delle informazioni sulle minacce.
 
-### Lezione 4: Le Sfide e i Rischi dell'IA per la Cyber Security (Durata: 45-60 minuti)
+### Lezione 4: Le Sfide e i Rischi dell'IA per la Cyber Security (Durata: ?)
 
 * **Utilizzo dell'IA per Attacchi Sofisticati:**
     * Deepfake per attacchi di social engineering e disinformazione.
