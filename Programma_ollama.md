@@ -4,11 +4,11 @@
 
 **Destinatari:** Professionisti e dipendenti aziendali senza precedente esperienza con Ollama o con l'esecuzione locale di modelli IA.
 
-**Durata Totale Suggerita:** 4-5 ore (divisibili in una giornata o due mezze giornate)
+**Durata Totale Suggerita:** 3-4 giorni (divisibili 1+2 giornate oppure 2+2 giornate)
 
 ## Moduli del Corso
 
-### Modulo 1: Introduzione all'IA in Locale e a Ollama (Durata: circa 1 ora)
+### Modulo 1: Introduzione all'IA in Locale e a Ollama (Durata: )
 
 * **Cos'è l'Intelligenza Artificiale in Locale e i Suoi Vantaggi per le Aziende:**
     * Spiegazione chiara e concisa dei benefici dell'esecuzione di modelli IA direttamente sull'infrastruttura aziendale.
@@ -25,14 +25,14 @@
     * Guida ai requisiti minimi e consigliati per server aziendali o workstation.
     * Sistemi operativi supportati (Windows, macOS, Linux) e relative considerazioni.
 
-### Modulo 2: Installazione e Configurazione del Server Ollama (Durata: circa 1.5 ore - con sessione pratica guidata)
+### Modulo 2: Installazione e Configurazione del Server Ollama (Durata: - con sessione pratica guidata)
 
 * **Preparazione dell'Ambiente:**
     * Verifica dei prerequisiti software (es. Docker, se applicabile).
     * Considerazioni sulla scelta del server o della macchina per l'installazione.
     * Best practice per la sicurezza durante l'installazione.
 * **Guida Passo-Passo all'Installazione di Ollama sui Diversi Sistemi Operativi:**
-    * Istruzioni dettagliate e specifiche per Windows, macOS e Linux (con esempi di comandi).
+    * Istruzioni dettagliate e specifiche per Linux (con esempi di comandi) cenni per installazioni su altri sistemi operativi (Windows, Mac).
     * Utilizzo di script di installazione (se disponibili) e procedure manuali.
 * **Configurazione di Base di Ollama:**
     * Avvio e arresto del server Ollama.
@@ -42,7 +42,7 @@
     * Identificazione e soluzione di errori frequenti (permessi, dipendenze mancanti, conflitti di porta).
     * Risorse utili per la risoluzione dei problemi (documentazione, community).
 
-### Modulo 3: Primi Passi con l'Uso di Ollama (Durata: circa 1.5 ore - con sessione pratica guidata)
+### Modulo 3: Primi Passi con l'Uso di Ollama (Durata:  - con sessione pratica guidata)
 
 * **Scaricare ed Eseguire i Primi Modelli Linguistici:**
     * Utilizzo della riga di comando di Ollama (`ollama run <nome_modello>`).
@@ -58,7 +58,7 @@
     * Panoramica di alcune interfacce web che semplificano l'interazione con Ollama (installazione e uso di base).
     * Vantaggi dell'utilizzo di un'interfaccia grafica per utenti meno tecnici.
 
-### Modulo 4: Potenziali Applicazioni Aziendali e Prossimi Passi (Durata: circa 30-60 minuti)
+### Modulo 4: Potenziali Applicazioni Aziendali e Prossimi Passi (Durata: )
 
 * **Brainstorming di Casi d'Uso Aziendali per Ollama:**
     * Generazione di contenuti (email, bozze di documenti, FAQ).
