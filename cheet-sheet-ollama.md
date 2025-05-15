@@ -74,7 +74,8 @@ Questo cheat sheet riassume i comandi Ollama essenziali e fornisce esempi pratic
 **1. Conversazione Generale:**
 
 ```bash
-ollama run llama2
+ollama run llama2 
+```
 
 **2. Rispondere a Domande:**
 ollama run mistral
