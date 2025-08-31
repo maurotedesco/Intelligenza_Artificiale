@@ -27,3 +27,30 @@ Questo glossario fornisce definizioni concise dei termini fondamentali che incon
 -   **Computer Vision:** Sottocampo dell'AI che permette ai computer di "vedere" e interpretare immagini e video.
 -   **Bias (Pregiudizio):** Errore sistematico in un modello o nei dati che porta a risultati ingiusti o distorti, spesso a causa di dati di addestramento non rappresentativi.
 -   **Accuratezza (Accuracy):** Percentuale di previsioni corrette su tutte le previsioni fatte da un modello.
+
+**Glossario: Agenti AI**
+
+*   **Agente AI:** Entità che percepisce l'ambiente e agisce su di esso.
+*   **Ambiente:** Il contesto in cui l'agente opera e interagisce.
+*   **Percezione (Percept):** L'input che l'agente riceve dall'ambiente in un dato istante.
+*   **Azione:** L'output che l'agente esegue sull'ambiente.
+*   **Funzione Agente:** La mappatura concettuale da sequenze di percezioni ad azioni.
+*   **Programma Agente:** L'implementazione concreta della funzione agente.
+*   **Razionalità:** La capacità dell'agente di agire in modo da massimizzare la sua misura di performance, date le sue percezioni e conoscenze.
+*   **Autonomia:** La capacità dell'agente di apprendere e adattarsi, senza dipendere interamente dalla conoscenza pre-programmata.
+*   **Agente Riflesso Semplice:** Agisce basandosi solo sulla percezione corrente.
+*   **Agente Riflesso basato su Modello:** Mantiene uno stato interno (modello) dell'ambiente per decidere le azioni.
+*   **Agente basato su Obiettivi:** Agisce per raggiungere stati futuri desiderati (obiettivi).
+*   **Agente basato su Utilità:** Agisce per massimizzare una funzione di utilità che quantifica la desiderabilità degli stati.
+*   **Agente di Apprendimento:** Migliora le sue prestazioni nel tempo attraverso l'esperienza.
+
+---
+
+**Glossario: RAG (Retrieval-Augmented Generation)**
+
+*   **RAG (Retrieval-Augmented Generation):** Tecnica che potenzia i Large Language Models (LLM) recuperando informazioni rilevanti da una base di conoscenza esterna prima di generare una risposta.
+*   **Recupero (Retrieval):** La fase in cui il sistema cerca e seleziona documenti o frammenti di testo pertinenti da una base di conoscenza esterna, basandosi sulla query dell'utente.
+*   **Generazione (Generation):** La fase in cui l'LLM utilizza la query originale e le informazioni recuperate per formulare una risposta coerente e informata.
+*   **Base di Conoscenza Esterna:** Un archivio di dati (es. documenti, database, articoli) da cui il sistema RAG recupera le informazioni.
+*   **Embedding (Vettorizzazione):** La rappresentazione numerica di testo (o altri dati) in uno spazio vettoriale, utilizzata per confrontare la somiglianza semantica tra query e documenti.
+*   **Allucinazione (Hallucination):** La tendenza di un LLM a generare informazioni false o fuorvianti, presentandole come fatti. RAG mira a ridurle.
